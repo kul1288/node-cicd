@@ -1,4 +1,4 @@
-# Node CI/CD Test
+# Node CI/CD
 
 A simple Node.js application built with Express to demonstrate CI/CD pipeline setup and Docker containerization.
 
